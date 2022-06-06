@@ -23,7 +23,7 @@ nav a {
 	text-decoration: none;
 	color: #777;
 	font-size: 1.5rem;
-	font-family: cursive;
+	font-family: "Kaushan Script", sans-serif;
 	letter-spacing: ;
 }
 
@@ -69,7 +69,7 @@ main div{
 }
 .main-article p {
 	border-top: 1px solid #777;
-	font-family: "Dancing Script", cursive;
+	font-family: "Kaushan Script", cursive;
 	font-size: 3rem;
 	font-style: italic;
 	grid-column: span 2;
@@ -91,7 +91,7 @@ main div{
 	justify-content: center;
 	box-shadow: none;
 	color: #777;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Kaushan Script', cursive;
 	z-index: -1;
 }
 .previous-works h2{
